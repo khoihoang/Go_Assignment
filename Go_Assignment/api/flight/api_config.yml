@@ -1,0 +1,10 @@
+server:
+  port: 8085
+
+grpc:
+  flight_grpc:
+    host: 127.0.0.1
+    port: 7075
+  user_grpc:
+    host: 127.0.0.1
+    port: 7072

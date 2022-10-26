@@ -1,0 +1,9 @@
+1. cài dặt prosgres trên docker
+
+2. tạo bảng dữ liệu
+
+3. chạy các service
+ go run .\api\user\main.go
+ go run .\grpc\user-grpc\main.go
+ go run .\api\flight\main.go
+ go run .\grpc\flight-grpc\main.go
